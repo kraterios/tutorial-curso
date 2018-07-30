@@ -1,0 +1,107 @@
+
+body{
+	background-color: #58FA82;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+p{
+	background-color: green;
+	color: black;
+	font-size: 15px;
+	font-family: Arial Black;
+}
+
+h1{
+	background-color: red;
+}
+
+
+img{
+	width: 300px;
+	height: 300px;
+}
+#especial{
+	background-color: black;
+	font-family: gabriola;
+	font-size: 50px;
+	color: white;
+}
+#trouxa{
+	background-color: black;
+	font-family: gabriola;
+	font-size: 50px;
+	color: white;
+}
+#foda{
+	width: 1000px;
+	height: 1000px;
+}
+.xtp{
+	background-color: black;
+	font-family: gabriola;
+	font-size: 50px;
+	color: white;
+}
+#div1{
+	height: 200px;
+	width: 50%;
+	background-color: black;
+	font-family: Gabriola;
+	font-size: 25px;
+	text-align: center;
+}
+#div2{
+	height: 200px;
+	width: 50%;
+	background-color: red;
+	font-family: Gabriola;
+	font-size: 25px;
+	text-align: center;
+}
+#div3{
+	height: 200px;
+	width: 50%;
+	background-color: yellow;
+	font-family: Gabriola;
+	font-size: 25px;
+	text-align: center;
+}
+
+.paragrafo{
+	font-family: Gabriola;
+	font-size: 25px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+

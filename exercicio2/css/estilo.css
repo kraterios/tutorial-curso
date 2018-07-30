@@ -1,0 +1,60 @@
+body{
+	background-color: #FFFFFF;
+}
+
+#comida{
+
+    width: 306px;
+
+}
+
+a{
+	width: 100px;
+	height: 150px;
+	background-color: lightgreen;
+	border:solid 2px;
+	border-color: red;
+	margin-left: 250px;
+
+}
+a:hover {
+	background-color: yellow;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
